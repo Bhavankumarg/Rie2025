@@ -7,6 +7,12 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import HomeCarousel from "./HomeCarousel"
 import WhatToExpect from './WhatToExpect'
+import ScheduleAtGlance from './ScheduleAtGlance'
+import ThisYearSpeakers from './ThisYearSpeakers'
+import Partners from './Partners'
+import Speakers from './Speakers'
+import PastEventGallery from './PastEventGallery'
+
 const Home = () => {
   return (
     <>
@@ -170,6 +176,12 @@ const Home = () => {
 
           <div>
             <WhatToExpect/>
+            <ScheduleAtGlance/>
+            <ThisYearSpeakers/>
+            <Speakers/>
+            <PastEventGallery/>
+            <Partners/>
+
           </div>
     
     </>
