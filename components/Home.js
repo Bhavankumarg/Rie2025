@@ -12,7 +12,7 @@ import ThisYearSpeakers from './ThisYearSpeakers'
 import Partners from './Partners'
 import Speakers from './Speakers'
 import PastEventGallery from './PastEventGallery'
-
+import AboutRie from './AboutRie'
 const Home = () => {
   return (
     <>
@@ -175,6 +175,7 @@ const Home = () => {
 
 
           <div>
+            <AboutRie/>
             <WhatToExpect/>
             <ScheduleAtGlance/>
             <ThisYearSpeakers/>

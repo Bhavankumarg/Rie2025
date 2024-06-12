@@ -7,7 +7,8 @@ import { FaLinkedin } from "react-icons/fa";
 const Footer = () => {
   return (
     <>
-      <div className="flex justify-center">
+    <div className="bg-[#3F2C6B]">
+      <div className="flex justify-center mt-10" >
         <hr className="w-4/5 bg-white" />
       </div>
 
@@ -23,35 +24,26 @@ const Footer = () => {
             </p>
             
             <div class="flex mt-4 sm:justify-center sm:mt-0 gap-3">
+
+              {/* <img src="/home/apple.png" className="w-32 h-10" />
+              <img src="/home/play_store_logo.svg" className="w-16 h-12" /> */}
               <a
                 href="#"
                 class="text-gray-500 hover:text-white dark:hover:bg-white"
               >
                 <FaFacebook className="text-white text-4xl" />
-
-               
-                <span class="sr-only">Facebook page</span>
               </a>
-              
               <a
                 href="#"
                 class="text-gray-500 hover:text-white dark:hover:bg-white"
               >
                 <RiInstagramFill className="text-white text-4xl" />
-
-               
-                <span class="sr-only">Facebook page</span>
               </a>
-
-              
               <a
                 href="#"
                 class="text-gray-500 hover:text-white dark:hover:bg-white"
               >
                 <FaLinkedin    className="text-white text-4xl" />
-
-               
-                <span class="sr-only">Facebook page</span>
               </a>
 
             </div>
@@ -70,6 +62,7 @@ const Footer = () => {
 
             </div>
           </div>
+        </div>
         </div>
    
     </>

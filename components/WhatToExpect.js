@@ -18,7 +18,7 @@ const WhatToExpect = () => {
         </p>
       </div>
       <div className="flex justify-center items-center mx-auto gap-10">
-        <div className="relative box-border h-64 w-[200px] p-4 border bg-[#7047A5] rounded-lg group">
+        <div className="relative box-border h-64 w-[200px] p-4 border bg-[#7047A5] rounded-lg group group-hover:bg-slate-400 ">
           <h3 className="text-white">
             Keynote <br />
             sessions

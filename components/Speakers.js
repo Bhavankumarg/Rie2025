@@ -57,8 +57,7 @@ const Speakers = () => {
           <div>
           <div className="relative box-border h-64 w-[200px] p-4 border bg-[#7047A5] rounded-lg group">
           <h3 className="text-white">
-            Keynote <br />
-            sessions
+          Kumar Birla
           </h3>
           <p className="text-white hidden group-hover:block mt-4">
             Hear from industry leaders and visionaries who are setting the trend
@@ -70,8 +69,7 @@ const Speakers = () => {
           <div>
           <div className="relative box-border h-64 w-[200px] p-4 border bg-red-500 rounded-lg group">
           <h3 className="text-white">
-            Keynote <br />
-            sessions
+            L.N. Mittal
           </h3>
           <p className="text-white hidden group-hover:block mt-4">
             Hear from industry leaders and visionaries who are setting the trend
@@ -83,8 +81,7 @@ const Speakers = () => {
           <div>
           <div className="relative box-border h-64 w-[200px] p-4 border bg-green-500 rounded-lg group">
           <h3 className="text-white">
-            Keynote <br />
-            sessions
+            Vikram Seth
           </h3>
           <p className="text-white hidden group-hover:block mt-4">
             Hear from industry leaders and visionaries who are setting the trend
@@ -96,8 +93,7 @@ const Speakers = () => {
           <div>
           <div className="relative box-border h-64 w-[200px] p-4 border bg-yellow-300 rounded-lg group">
           <h3 className="text-white">
-            Keynote <br />
-            sessions
+            Julian
           </h3>
           <p className="text-white hidden group-hover:block mt-4">
             Hear from industry leaders and visionaries who are setting the trend
@@ -109,8 +105,7 @@ const Speakers = () => {
           <div>
           <div className="relative box-border h-64 w-[200px] p-4 border bg-slate-600 rounded-lg group">
           <h3 className="text-white">
-            Keynote <br />
-            sessions
+            Imran Khan
           </h3>
           <p className="text-white hidden group-hover:block mt-4">
             Hear from industry leaders and visionaries who are setting the trend
@@ -122,8 +117,7 @@ const Speakers = () => {
           <div>
           <div className="relative box-border h-64 w-[200px] p-4 border bg-orange-700 rounded-lg group">
           <h3 className="text-white">
-            Keynote <br />
-            sessions
+            Amitabh
           </h3>
           <p className="text-white hidden group-hover:block mt-4">
             Hear from industry leaders and visionaries who are setting the trend
