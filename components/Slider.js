@@ -32,7 +32,7 @@ function AsNavFor() {
           <img src="/home/barCrawl.jpg" className="w-full h-96 rounded-3xl" alt="" />
         </div>
         <div>
-          <img src="/home/History.jpg" className="w-full h-96 rounded-3xl" alt="" />
+          <img src="/home/history.jpg" className="w-full h-96 rounded-3xl" alt="" />
         </div>
       </Slider>
       
