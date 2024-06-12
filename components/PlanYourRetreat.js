@@ -70,7 +70,7 @@ const PlanYourRetreat = () => {
 
         <div className="relative w-52 h-64 rounded-2xl overflow-hidden group">
           <img
-            src="/activities/Sake.png"
+            src="/activities/sake_bowl.png"
             className="w-full h-full object-cover rounded-2xl"
           />
           <div className="absolute inset-0 flex flex-col justify-between p-4">

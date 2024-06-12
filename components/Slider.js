@@ -23,7 +23,7 @@ function AsNavFor() {
         infinite={true}
       >
         <div>
-          <img src="/home/sake.png" className="w-full h-96 rounded-3xl" alt="" />
+          <img src="/home/sake_bowl.png" className="w-full h-96 rounded-3xl" alt="" />
         </div>
         <div>
           <img src="/home/tiputrek.jpg" className="w-full h-96 rounded-3xl" alt="" />
@@ -46,7 +46,7 @@ function AsNavFor() {
         infinite={true}
       >
         <div className="pr-4">
-          <img src="/home/sake.png" className="w-96 h-48 rounded-3xl" alt="" />
+          <img src="/home/sake_bowl.png" className="w-96 h-48 rounded-3xl" alt="" />
         </div>
         <div className="pr-4">
           <img src="/home/tiputrek.jpg" className="w-96 h-48 rounded-3xl" alt="" />
@@ -55,7 +55,7 @@ function AsNavFor() {
           <img src="/home/barCrawl.jpg" className="w-96 h-48 rounded-3xl" alt="" />
         </div>
         <div className="pr-4">
-          <img src="/home/History.jpg" className="w-96 h-48 rounded-3xl" alt="" />
+          <img src="/home/history.jpg" className="w-96 h-48 rounded-3xl" alt="" />
         </div>
       </Slider>
     </div>
