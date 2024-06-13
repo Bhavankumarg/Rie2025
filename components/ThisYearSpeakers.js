@@ -5,7 +5,7 @@ const ThisYearSpeakers = () => {
     <>
       <div>
         <h3 className="text-center text-white text-3xl py-10">
-          This Year <span className="font-bold">Speakers</span>
+          This Year&apos;s <span className="font-bold">Speakers</span>
         </h3>
       </div>
 

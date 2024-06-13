@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-const page = () => {
+const ContactPage = () => {
   return (
     <>
       <div className="bg-[#3F2C6B]">
@@ -41,4 +41,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default ContactPage;

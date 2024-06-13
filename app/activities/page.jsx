@@ -2,7 +2,8 @@ import React from "react";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import PlanYourRetreat from "@/components/PlanYourRetreat";
-const page = () => {
+
+const ActivitiesPage = () => {
   return (
     <>
       <div className="bg-[#3F2C6B]">
@@ -37,4 +38,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default ActivitiesPage;

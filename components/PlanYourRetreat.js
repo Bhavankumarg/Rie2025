@@ -35,7 +35,7 @@ const PlanYourRetreat = () => {
             className="w-full h-full object-cover rounded-2xl"
           />
           <div className="absolute inset-0 flex flex-col justify-between p-4">
-            <h3 className="bg-[#EC3D71] w-26 rounded-3xl p-1.5 text-[#EFEFEF]">
+            <h3 className="bg-[#EC3D71] w-[180px] rounded-3xl p-1.5 text-[#EFEFEF]">
               History & Gastronomy
             </h3>
             <div className="absolute inset-0 bg-gradient-to-t from-[#EC3D71] to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-2xl z-0"></div>

@@ -6,11 +6,11 @@ import { FaArrowRightLong } from "react-icons/fa6";
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
 
-const Speakers = () => {
+const PastSpeakersSlider = () => {
   const settings = {
     dots: true,
     infinite: true,
-    arrows: false,
+    arrows: true  ,
     speed: 1000,
     slidesToShow: 5,
     slidesToScroll: 2,
@@ -49,8 +49,8 @@ const Speakers = () => {
 
   return (
     <div className="bg-customLightGray px-10 py-16 text-center container mx-auto">
-      <h1 className="text-3xl mb-10 font-bold text-white">
-        Partners
+      <h1 className="text-3xl mb-10 text-white">
+        Past <span className='font-bold'>Speakers</span>
       </h1>
       <div className="ps-11">
         <Slider {...settings}>
@@ -61,7 +61,7 @@ const Speakers = () => {
                 Hear from industry leaders and visionaries who are setting the trend
                 and driving change.
               </p>
-              <FaArrowRightLong className="absolute bottom-2 right-2 text-white group-hover:hidden" />
+            
             </div>
           </div>
           <div>
@@ -71,7 +71,7 @@ const Speakers = () => {
                 Hear from industry leaders and visionaries who are setting the trend
                 and driving change.
               </p>
-              <FaArrowRightLong className="absolute bottom-2 right-2 text-white group-hover:hidden" />
+              
             </div>
           </div>
           <div>
@@ -81,7 +81,7 @@ const Speakers = () => {
                 Hear from industry leaders and visionaries who are setting the trend
                 and driving change.
               </p>
-              <FaArrowRightLong className="absolute bottom-2 right-2 text-white group-hover:hidden" />
+              
             </div>
           </div>
           <div>
@@ -91,7 +91,7 @@ const Speakers = () => {
                 Hear from industry leaders and visionaries who are setting the trend
                 and driving change.
               </p>
-              <FaArrowRightLong className="absolute bottom-2 right-2 text-white group-hover:hidden" />
+              
             </div>
           </div>
           <div>
@@ -101,7 +101,7 @@ const Speakers = () => {
                 Hear from industry leaders and visionaries who are setting the trend
                 and driving change.
               </p>
-              <FaArrowRightLong className="absolute bottom-2 right-2 text-white group-hover:hidden" />
+              
             </div>
           </div>
           <div>
@@ -111,7 +111,7 @@ const Speakers = () => {
                 Hear from industry leaders and visionaries who are setting the trend
                 and driving change.
               </p>
-              <FaArrowRightLong className="absolute bottom-2 right-2 text-white group-hover:hidden" />
+              
             </div>
           </div>
         </Slider>
@@ -120,4 +120,4 @@ const Speakers = () => {
   )
 }
 
-export default Speakers
+export default PastSpeakersSlider

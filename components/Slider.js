@@ -21,6 +21,8 @@ function AsNavFor() {
         ref={sliderRef1}
         arrows={false}
         infinite={true}
+        autoplay={true}
+        autoplaySpeed={3000} // Autoplay speed in milliseconds
       >
         <div>
           <img src="/home/sake_bowl.png" className="w-full h-96 rounded-3xl" alt="" />
@@ -44,6 +46,8 @@ function AsNavFor() {
         focusOnSelect={true}
         className="mt-4"
         infinite={true}
+        autoplay={true}
+        autoplaySpeed={2000}
       >
         <div className="pr-4">
           <img src="/home/sake_bowl.png" className="w-96 h-48 rounded-3xl" alt="" />

@@ -3,3 +3,13 @@
 @tailwind utilities;
 
 
+.slick-dots li button:before {
+    font-size: 12px !important;
+    color: white !important;
+    opacit0y: 0.75 !important;
+    margin-top: 20px !important;
+  }
+  .slick-dots li.slick-active button:before {
+    color: white !important;
+    opacity: 1 !important;
+  }
