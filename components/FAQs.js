@@ -7,7 +7,7 @@ import { FaRegArrowAltCircleDown } from "react-icons/fa";
 export default function Component() {
   return (
     <>
-      <h2 className="text-center text-white text-3xl mt-20">FAQs</h2>
+      <h2 className="text-center text-white text-3xl mt-20 font-bold">FAQs</h2>
       <div className="container mx-auto mt-10 bg-[#2DAA8C] p-5 rounded-xl">
         <Accordion collapseAll className="shadow-lg bg-[#303E95] border-none text-white">
           <Accordion.Panel className="mt-5">

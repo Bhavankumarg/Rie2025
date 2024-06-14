@@ -57,7 +57,7 @@ function Header() {
                     <Sidebar.Item href="/activities" icon={HiUsers}>
                       Activities
                     </Sidebar.Item>
-                    <Sidebar.Item href="/" icon={HiLogin}>
+                    <Sidebar.Item href="/partners" icon={HiLogin}>
                       Partners
                     </Sidebar.Item>
                     <Sidebar.Item href="/plan-your-trip" icon={HiPencil}>
