@@ -4,7 +4,7 @@ import Footer from "@/components/Footer";
 const ContactPage = () => {
   return (
     <>
-      <div className="bg-[#3F2C6B]">
+      <div className="bg-[#150539]">
         <Header />
         <div className="mt-20">
           <h3 className="font-bold text-white text-3xl text-center">

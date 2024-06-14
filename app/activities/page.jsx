@@ -6,7 +6,7 @@ import PlanYourRetreat from "@/components/PlanYourRetreat";
 const ActivitiesPage = () => {
   return (
     <>
-      <div className="bg-[#3F2C6B]">
+      <div className="bg-[#150539]">
         <Header className="" />
         <div className=" text-center">
           <h3 className="text-3xl text-center text-[#EFEFEF] font-bold mt-20">

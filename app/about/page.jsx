@@ -8,7 +8,7 @@ import PastSpeakers from "@/components/PastSpeakers";
 const Aboutpage = () => {
   return (
     <>
-      <div className="bg-[#3F2C6B]">
+      <div className="bg-[#150539]">
         <Header />
         <div className="mt-20">
           <h2 className="text-center text-[#EFEFEF] text-3xl font-bold">
