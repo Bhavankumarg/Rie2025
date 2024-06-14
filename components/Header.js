@@ -65,7 +65,7 @@ function Header() {
                     </Sidebar.Item>
                   </Sidebar.ItemGroup>
                   <Sidebar.ItemGroup>
-                    <Sidebar.Item href="/contact-us" icon={HiClipboard}>
+                    <Sidebar.Item href="/contact-us " icon={HiClipboard}>
                       Contact Us
                     </Sidebar.Item>
                     <h3>rie@eobangalore.com</h3>
