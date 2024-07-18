@@ -9,7 +9,7 @@ const page = () => {
     <>
     <div className='bg-[#150539]'>
     <Header/>
-    <h2 className="text-3xl text-[#EFEFEF] text-center mt-20 font-bold">Plan your Trip</h2>
+    <h2 className="text-3xl text-[#EFEFEF] text-center mt-20 font-bold">Plan your TripsS</h2>
     <Registration/>
     <Travel_VisaGuide/>
     <FAQs/>
